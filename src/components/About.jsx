@@ -1,8 +1,8 @@
 import { FaCss3, FaHtml5, FaReact } from 'react-icons/fa';
 import profile from '../assets/images/profilePicture.jpg';
 import { SiJavascript, SiPhp, SiTailwindcss } from 'react-icons/si';
-import { Button, Link } from '@nextui-org/react';
 import { HiDocumentText } from 'react-icons/hi2';
+import { Button, Link } from '@nextui-org/react';
 
 const About = () => {
   const skills = [

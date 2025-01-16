@@ -38,7 +38,7 @@ const About = () => {
           </p>
           <h1 className="text-white text-xl font-bold py-2">Resume</h1>
           <Link
-            href="https://drive.google.com/file/d/1ERL0vBEx9RoI1AZhWi-SIO8HQwX4kN_r/view?usp=sharing"
+            href="https://drive.google.com/file/d/1GNpk57whm3ge1pih3Orssm_itu3xP53o/view?usp=sharing"
             target="_blank">
             <Button className="bg-white">
               <HiDocumentText size={20} />

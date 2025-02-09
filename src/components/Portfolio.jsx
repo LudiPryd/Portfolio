@@ -12,6 +12,7 @@ import project1 from '../assets/images/Project1.png';
 import project2 from '../assets/images/Project2.png';
 import project3 from '../assets/images/Project3.png';
 import project4 from '../assets/images/Project4.png';
+import project5 from '../assets/images/Project5.png';
 
 const projects = [
   {
@@ -39,10 +40,16 @@ const projects = [
   },
   {
     image: project4,
-    title: 'Portfolio Web',
-    description:
-      'This website contains information about me, the projects I have worked on, and the technologies I am proficient in. This web created with React',
-    githubUrl: '#',
+    title: 'Enigma Laundry',
+    description: 'Final project React JS from Enigma Bootcamp.',
+    githubUrl: 'https://github.com/LudiPryd/Enigma-laundry',
+    liveUrl: '#',
+  },
+  {
+    image: project5,
+    title: 'Positivus Landing Page',
+    description: 'Simple landing page created with React and Tailwind CSS.',
+    githubUrl: 'https://github.com/LudiPryd/Positivus_landing_page',
     liveUrl: '#',
   },
 ];
